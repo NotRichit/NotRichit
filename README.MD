@@ -26,8 +26,12 @@
 ### My Top Languages
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=notrichit&show_icons=true&locale=en&layout=compact" alt="notrichit" /></p>
 
+
+
 ### Github Grade and stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=notrichit&show_icons=true&locale=en" alt="notrichit" /></p>
+
+
 
 ### Github Streak Status
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notrichit&" alt="notrichit" /></p>
