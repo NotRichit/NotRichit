@@ -11,3 +11,7 @@
 
 
 ### :man_technologist: About Me :
+- I'm a student.
+- I'm currently learning about backend developing.
+- I'm working on nothing for now.
+- I work as a staff in ![HyzenCloud](https://hyzen-cloud.com)
